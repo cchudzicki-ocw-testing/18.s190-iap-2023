@@ -3,11 +3,15 @@ leftnav:
   name: Syllabus
   url: /pages/syllabus
   weight: 10
+- identifier: ca601b8b-ff7f-4b43-8c72-9b49089a2f71
+  name: Lecture Videos
+  url: /video_galleries/lecture-videos
+  weight: 20
 - identifier: 52ab6992-5ee4-406f-8ba2-5d3d1325ef9b
   name: Lecture Notes
   url: /pages/lecture-notes
-  weight: 20
+  weight: 30
 - identifier: 0033d3db-2432-44d4-915f-2726e553a94d
   name: Problem Sets
   url: /pages/problem-sets
-  weight: 30
+  weight: 40

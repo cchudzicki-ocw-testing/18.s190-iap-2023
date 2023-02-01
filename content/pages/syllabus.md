@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: Syllabus
+description: This section includes course meeting times, prerequisites, course description,
+  textbook, grading, and course calendar.
 draft: false
 title: Syllabus
 uid: 340ca867-0eb2-4da3-a6c4-f66646e17e09

@@ -39,26 +39,25 @@ Key Dates
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Lecture 1: Motivation, Intuition, and Examples 
 {{< tdclose >}}{{< tdopen >}}
-Problem Set 1 out
+ 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Lecture 2: General Theory
 {{< tdclose >}}{{< tdopen >}}
-Problem Set 2 out
+Problem Set 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Lecture 3: Compact Sets in Rⁿ 
 {{< tdclose >}}{{< tdopen >}}
-Problem Set 1 due
+Problem Set 2 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Lecture 4: Compact Metric Spaces 
 {{< tdclose >}}{{< tdopen >}}
-Problem Set 3 out
+ 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Lecture 5: The Fixed Point Theorem 
 {{< tdclose >}}{{< tdopen >}}
-Problem Set 2 due
+Problem Set 3 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Lecture 6: Where We Go from Here
 {{< tdclose >}}{{< tdopen >}}
-Problem Set 4 out             
-Problem Set 3 due
+ 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

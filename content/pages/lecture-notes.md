@@ -11,7 +11,7 @@ uid: 52ab6992-5ee4-406f-8ba2-5d3d1325ef9b
 
 {{% resource_link "2a25c5c5-2012-44c3-acf9-e922852d4b38" "Lecture 1: Motivation, Intuition, and Examples (TEX)" %}}
 
-Outline: Motivation, definition, and intuition behind metric spaces. Redefining *18.100A Real Analysis* and *18.100P Real Analysis* in terms of metrics: open/closed sets, convergence, Cauchy sequences, and continuity. 
+Outline: Motivation, definition, and intuition behind metric spaces. Redefining *18.100A Real Analysis* and *18.100P Real Analysis* in terms of metrics: open/closed sets, convergence, Cauchy sequences, and continuity.  
 
 ### Lecture 2: General Theory
 

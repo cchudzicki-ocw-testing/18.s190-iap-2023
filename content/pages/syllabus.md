@@ -31,3 +31,34 @@ Thomson, Brian S., Judith B. Bruckner, and Andrew M. Bruckner. *Elementary Real 
 This class will be Pass/No Record with grading based on assignments and participation. There will be three problem sets, and there will not be any exams.
 
 ## Calendar
+
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+Lecture # and Topics
+{{< thclose >}}{{< thopen >}}
+Key Dates
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+Lecture 1: Motivation, Intuition, and Examples 
+{{< tdclose >}}{{< tdopen >}}
+Problem Set 1 out
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Lecture 2: General Theory
+{{< tdclose >}}{{< tdopen >}}
+Problem Set 2 out
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Lecture 3: Compact Sets in Rⁿ 
+{{< tdclose >}}{{< tdopen >}}
+Problem Set 1 due
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Lecture 4: Compact Metric Spaces 
+{{< tdclose >}}{{< tdopen >}}
+Problem Set 3 out
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Lecture 5: The Fixed Point Theorem 
+{{< tdclose >}}{{< tdopen >}}
+Problem Set 2 due
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Lecture 6: Where We Go from Here
+{{< tdclose >}}{{< tdopen >}}
+Problem Set 4 out             
+Problem Set 3 due
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

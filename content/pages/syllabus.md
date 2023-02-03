@@ -53,7 +53,7 @@ Lecture 4: Compact Metric Spaces 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Lecture 5: The Fixed Point Theorem 
+Lecture 5: Complete Metric Spaces 
 {{< tdclose >}}{{< tdopen >}}
 Problem Set 3 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}

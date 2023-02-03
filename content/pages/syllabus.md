@@ -24,6 +24,8 @@ This course provides a basic introduction to metric spaces. It covers metrics, o
 
 Lebl, Jiri. *Basic Analysis I: Introduction to Real Analysis, Volume 1*. CreateSpace Independent Publishing Platform, 2018. ISBN: 9781718862401. This book is available as [a free PDF download](https://www.jirka.org/ra/). You can purchase a paper copy by following a link at the same site.
 
+Munkres, James R. *Topology*. Pearson, 2015. ISBN: 9789332549531.
+
 Thomson, Brian S., Judith B. Bruckner, and Andrew M. Bruckner. *Elementary Real Analysis*. CreateSpace Independent Publishing Platform, 2008. ISBN: 9781434841612. This book is available as [a free PDF download (PDF - 5.96 MB)](http://classicalrealanalysis.info/documents/TBB-AllChapters-Landscape.pdf). 
 
 ## Grading

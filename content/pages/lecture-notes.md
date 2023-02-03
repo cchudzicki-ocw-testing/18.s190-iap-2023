@@ -35,7 +35,7 @@ Lecture 4: Compact Metric Spaces (PDF)
 
 Lecture 4: Compact Metric Spaces (TEX)
 
-Outline: Compact sets on general metric spaces. Sequential compactness is equivalent to topological compactness on metric spaces. 
+Outline: Compact sets on general metric spaces. Showing sequential compactness is equivalent to topological compactness, which is equivalent to being totally bounded and complete (on metric spaces).  
 
 ### Lecture 5: Complete Metric Spaces
 
@@ -43,7 +43,7 @@ Lecture 5: Complete Metric Spaces (PDF)
 
 Lecture 5: Complete Metric Spaces (TEX)
 
-Outline: Compact is equivalent to totally bounded and complete. The Banach fixed point theorem and ODEs. The Arzela-Ascoli theorem. 
+Outline: Completions of metric spaces, motivating L<sup>p</sup> spaces, Sobolev spaces, p-adic numbers, Banach spaces, and Hilbert spaces.  
 
 ### Lecture 6: Where We Go from Here
 

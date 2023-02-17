@@ -27,7 +27,7 @@ uid: 5b3a14a6-f8b8-4b2a-bf40-94c1500eb0de
 
 **Paige Bright:** I wish students took more of a part in the classroom, and I believe this can be better encouraged by professors. The most influential courses at MIT in the math department, in my opinion, are those with course material available to the public after the fact. For instance, when Professor Larry Guth, the faculty advisor for both versions of this course, taught the course [*18.118 Topics in Analysis: Decoupling*](https://math.mit.edu/~lguth/Math118.html), he asked each student to type notes for one lecture during the semester. The materials for that class are beautiful and nice to read even years later. I hope that in the long term, more resources like this can be made and made available to the public, and I believe that students can/could/should play a role in this in the classroom.
 
-**OCW:** How did you change the course materials or your instructional approach to teaching *Introduction to Metric Spaces* a second time?
+**OCW:** How did you change the course materials or your instructional approach when teaching *Introduction to Metric Spaces* a second time?
 
 **Paige Bright:** Mostly, the instructional approach was the same when teaching the course: highlight how analysis on metric spaces is similar to that on Euclidean space, discuss how it's different with compact sets, and then a topic on metric spaces. The main thing that changed in 2023 was the topic.
 

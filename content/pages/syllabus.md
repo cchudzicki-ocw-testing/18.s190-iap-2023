@@ -8,7 +8,7 @@ uid: 340ca867-0eb2-4da3-a6c4-f66646e17e09
 ---
 ## Course Meeting Times
 
-Lectures: 2 sessions / week, 1.5 hour / session
+Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 

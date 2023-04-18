@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 18.S190 Lecture 6.mp4
+title: 'Lecture 6: Where We Go from Here'
 uid: 3f64d2fb-4b59-4781-8cbf-23ad5870823d
 video_files:
   video_captions_file: ''
@@ -19,7 +20,9 @@ video_files:
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
-  video_tags: ''
+  video_tags: History of metric spaces, topology, metric topology, functional analysis,
+    analysis and manifolds, partial differential equations, PDEs
   youtube_description: ''
   youtube_id: re2cL2GfUfM
 ---
+We wrap up this course with a discussion of where the material goes from here. We discuss how the concept discussed in this class are utilized in topology, functional analysis, analysis and manifolds, and partial differential equations.

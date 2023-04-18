@@ -29,12 +29,14 @@ video_metadata:
     \nNot every metric space is a complete metric space, but for those that are we\
     \ can prove some important concepts. We prove the Banach Fixed Point theorem and\
     \ prove that we can \u201Ccomplete\u201D (or \u201Cfill in the holes\u201D of)\
-    \ every metric space.\n\nLicense: Creative Commons BY-NC-SA\nMore information\
-    \ at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
-    \ at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion\
-    \ on OCW\u2019s YouTube and other social media channels. Personal attacks, hate\
-    \ speech, trolling, and inappropriate comments are not allowed and may be removed.\
-    \ More details at https://ocw.mit.edu/comments."
+    \ every metric space.\n\nThis video has been dubbed using an artificial voice\
+    \ via https://aloud.area120.google.com to increase accessibility. You can change\
+    \ the audio track language in the Settings menu.\n\nLicense: Creative Commons\
+    \ BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
+    Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
+    \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
+    \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\
+    \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: 6bPEZYhh1P4
 ---
 Not every metric space is a complete metric space, but for those that are we can prove some important concepts. We prove the Banach Fixed Point theorem and prove that we can “complete” (or “fill in the holes” of) every metric space.

@@ -27,8 +27,10 @@ video_metadata:
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S\n\
     \nWe prove four concepts of compactness are equivalent in this lecture. We use\
     \ the Lebesgue Number Lemma, Cantor\u2019s Intersection Theorem, Cauchy completeness,\
-    \ and totally bounded sets to do so.\n\nLicense: Creative Commons BY-NC-SA\nMore\
-    \ information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
+    \ and totally bounded sets to do so.\n\nThis video has been dubbed using an artificial\
+    \ voice via https://aloud.area120.google.com to increase accessibility. You can\
+    \ change the audio track language in the Settings menu.\n\nLicense: Creative Commons\
+    \ BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
     Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
     \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
     \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\

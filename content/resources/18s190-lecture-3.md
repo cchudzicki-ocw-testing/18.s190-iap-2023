@@ -21,7 +21,8 @@ video_files:
 video_metadata:
   video_speakers: ''
   video_tags: Normed spaces, compact support, support of functions, analysis on finite
-    sets, topological compactness, sequential compactness, Heine-Borel theorem, Bolzano-Weierstrass
+    sets, topological compactness, sequential compactness, Heine-Borel theorem, Bolzano-Weierstrass,
+    DubbedWithAloud
   youtube_description: "MIT 18.S190 Introduction To Metric Spaces, IAP 2023\nInstructor:\
     \ Paige Bright\n\nView the complete course: https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S\n\

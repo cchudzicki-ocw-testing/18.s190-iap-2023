@@ -15,9 +15,9 @@ resourcetype: Video
 title: 'Lecture 1: Motivation, Intuition, and Examples'
 uid: ee88707a-3cbb-490b-8188-2efba0bcf202
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/18-s190-introduction-to-metric-spaces-january-iap-2023/1-nhSpEF_RO3iM0LVc4vqXg87BVl6JhGq_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/YQQOfK3ZLRU/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/18-s190-introduction-to-metric-spaces-january-iap-2023/1-nhSpEF_RO3iM0LVc4vqXg87BVl6JhGq_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: Metric spaces, convergent sequences, Cauchy sequences, open sets, continuous

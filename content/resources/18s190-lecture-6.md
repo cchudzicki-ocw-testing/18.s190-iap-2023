@@ -15,9 +15,9 @@ resourcetype: Video
 title: 'Lecture 6: Where We Go from Here'
 uid: 3f64d2fb-4b59-4781-8cbf-23ad5870823d
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/18-s190-introduction-to-metric-spaces-january-iap-2023/1iloo3fh6OuSc9MnUa6muaBV1HqX1uBiM_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/re2cL2GfUfM/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/18-s190-introduction-to-metric-spaces-january-iap-2023/1iloo3fh6OuSc9MnUa6muaBV1HqX1uBiM_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: History of metric spaces, topology, metric topology, functional analysis,

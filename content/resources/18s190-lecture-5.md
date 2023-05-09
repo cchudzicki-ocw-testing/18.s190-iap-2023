@@ -15,9 +15,9 @@ resourcetype: Video
 title: 'Lecture 5: Complete Metric Spaces'
 uid: c5054873-2777-44bf-9687-761c9afa7b63
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/18-s190-introduction-to-metric-spaces-january-iap-2023/11ZK5oMEPKCsTCX0tnR9bvC068y_Phfkb_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/6bPEZYhh1P4/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/18-s190-introduction-to-metric-spaces-january-iap-2023/11ZK5oMEPKCsTCX0tnR9bvC068y_Phfkb_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: Complete metric spaces, Cauchy completeness, equivalent Cauchy sequences,

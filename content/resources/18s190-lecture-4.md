@@ -15,9 +15,9 @@ resourcetype: Video
 title: 'Lecture 4: Compact Metric Spaces'
 uid: aaad2c25-0199-44e5-8a19-cf91a1eb2f43
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/18-s190-introduction-to-metric-spaces-january-iap-2023/1qfRKZD8_ugPVPV-s5jOTSbC85J4kQ9of_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/Rv3xYk85Lq0/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/18-s190-introduction-to-metric-spaces-january-iap-2023/1qfRKZD8_ugPVPV-s5jOTSbC85J4kQ9of_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: "Lebesgue number lemma, cantor\u2019s intersection theorem, totally\

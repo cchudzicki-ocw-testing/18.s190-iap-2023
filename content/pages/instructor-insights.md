@@ -9,7 +9,7 @@ uid: 5b3a14a6-f8b8-4b2a-bf40-94c1500eb0de
 ---
 ## Instructor Interview
 
-*Below, Paige Bright describes various aspects of how she taught* 18.S190 Introduction to Metric Spaces *during the 2023 Independent Activities Period (*[*IAP*](https://elo.mit.edu/iap/)*).*
+Below, Paige Bright describes various aspects of how she taught *18.S190 Introduction to Metric Spaces* during the 2023 Independent Activities Period ([IAP](https://elo.mit.edu/iap/)).
 
 **OCW:** For the uninitiated, can you explain for us what metric spaces are and why they’re an interesting topic to study?
 
@@ -41,15 +41,15 @@ Also, I would like to thank the many students who helped provide feedback and gu
 
 ## Curriculum Information
 
-#### Prerequisites
+### Prerequisites
 
 Students were expected to have some experience with real analysis, such as might be gained from taking one of the various versions of *18.100 Real Analysis.*
 
-#### Requirements Satisfied
+### Requirements Satisfied
 
 None
 
-#### Offered
+### Offered
 
 Various versions of *18.S190 Special Subject in Mathematics*, each on a different topic, are offered each year during the Independent Activities Period (IAP).
 
@@ -59,15 +59,15 @@ The course was taught [Pass / No Record](https://registrar.mit.edu/classes-grade
 
 ## Student Information
 
-#### Enrollment
+### Enrollment
 
 20 students
 
-#### Breakdown by Year
+### Breakdown by Year
 
 Various, ranging from first-year undergraduate students to graduate students.
 
-#### Typical Student Background
+### Typical Student Background
 
 Students were expected to have some prior experience with real analysis. There were students who had just finished one of the versions of *18.100 Real Analysis*, as well as those who simply wanted to know more about the subject. The majority of the students were enrolled as [listeners](https://registrar.mit.edu/classes-grades-evaluations/grades/grading-policies/listener-status-auditing).
 
@@ -75,10 +75,10 @@ Students were expected to have some prior experience with real analysis. There w
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-#### In Class (3 hours)
+### In Class (3 hours)
 
 Met 2 times per week for 1.5 hours per session; 6 sessions total; mandatory attendance
 
-#### Out of Class (9 hours)
+### Out of Class (9 hours)
 
 Outside of class, students completed three problem sets.
